@@ -10,4 +10,4 @@ This ecosystem focuses on building a foundation of powerful and independent **Sk
 - **/tasks**: Project progress management and system task lists.
 
 ---
-*Project initiated by HuongDBT.*
+*Project initiated by Cherie.*
